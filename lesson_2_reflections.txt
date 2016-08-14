@@ -16,11 +16,13 @@ change?
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
-	By creating a branch for each environment of an apllication (production, 
+	By creating a branch for each environment of an application (production, 
 	qa, staging, development). That way you can know which code version is running 
 	in each environment.
 
 How do the diagrams help you visualize the branch structure?
+
+	Nice. I mean yes. :)
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
