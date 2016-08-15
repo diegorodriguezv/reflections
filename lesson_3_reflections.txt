@@ -20,12 +20,13 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    The benefit is that you can do offline operations with that remote branch.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Probably by sending zip files with the entire project by email.
+	Sharing is easy. Merging is hard. Besides it is super slow.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
